@@ -1,0 +1,7 @@
+{
+    "git.ignoreLimitWarning": true,
+    "[javascript]": {
+        "editor.formatOnSave": false
+    },
+    "java.dependency.syncWithFolderExplorer": false
+}
